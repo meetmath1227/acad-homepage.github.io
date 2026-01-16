@@ -23,37 +23,8 @@ redirect_from:
 My research interest includes **low-dimensional topology, quantum topology** and **knot theory**. The latest research progress can be viewed via my <a href='{{site.author.googlescholar}}'>google scholar</a> (You can also use google scholar badge <a href='{{site.author.googlescholar}}'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *202X.XX*: &nbsp;🎉🎉 
-- *202X.XX*: &nbsp;🎉🎉 公众号《省身之问》推出纽结理论科普系列推文，单篇阅读量突破XXX
+- *2025.01*: &nbsp;🎉🎉 公众号《省身之问》推出纽结理论科普系列推文，单篇阅读量突破10000! [纽结理论科普系列——纽结的基本概念](https://mp.weixin.qq.com/s/k2UQ583kXpgTouJrqQrnyg)
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XX Journal 202X</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Title of Your Paper: Research on XXX in Knot Theory]()
 
-**Kai Wang**, XXX, XXX
-
-[**Project**]({{site.author.googlescholar}}) <strong><span class='show_paper_citations' data=''></span></strong>
-- This paper focuses on XXX problem in knot theory, and proposes a new method to solve XXX.
-</div>
-</div>
-
-- [A Brief Introduction to Cosmetic Surgery Conjecture in Knot Theory](https://github.com), **Kai Wang**, A, B, **XX Workshop on Low-Dimensional Topology 202X**
-
-# 🎖 Honors and Awards
-- *202X.10* 
-- *202X.09* 
-
-# 📖 Educations
-- *2022.09 - 至今 (now)*, 
-- *2018.09 - 2022.06*, 
-
-# 💬 Invited Talks
-- *202X.06*, 
-- *202X.03*, 
-
-# 💻 Academic Experiences
-- *202X.05 - 202X.02*, 
-- *202X.07 - 202X.08*, 
